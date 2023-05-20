@@ -10,7 +10,7 @@
 /**
 * @brief Stack type definition
 */
-typedef struct _s_stack *stack;
+typedef struct _s_stack * stack;
 
 /**
 * @brief Stack elements type definition
